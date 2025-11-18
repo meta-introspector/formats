@@ -14,7 +14,7 @@ categories = ["cryptography", "data-structures", "encoding", "no-std", "parser-i
 keywords = ["asn1", "crypto", "itu", "pkcs"]
 readme = "README.md"
 edition = "2024"
-rust-version = "1.85"
+# rust-version = "1.85"
 
 [dependencies]
 arbitrary = { version = "1.4", features = ["derive"], optional = true }

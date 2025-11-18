@@ -15,7 +15,7 @@ categories = ["cryptography", "encoding", "no-std", "parser-implementations"]
 keywords = ["crypto", "hex", "hexadecimal"]
 readme = "README.md"
 edition = "2024"
-rust-version = "1.85"
+# rust-version = "1.85"
 
 [features]
 alloc = []

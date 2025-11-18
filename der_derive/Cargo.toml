@@ -11,7 +11,7 @@ categories = ["cryptography", "data-structures", "encoding", "no-std", "parser-i
 keywords = ["asn1", "der", "crypto", "itu", "pkcs"]
 readme = "README.md"
 edition = "2024"
-rust-version = "1.85"
+# rust-version = "1.85"
 
 [lib]
 proc-macro = true

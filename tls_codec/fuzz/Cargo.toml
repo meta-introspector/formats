@@ -15,7 +15,7 @@ path = ".."
 features = ["arbitrary"]
 
 # Prevent this from interfering with workspaces
-[workspace]
+#[workspace]
 members = ["."]
 
 [profile.release]

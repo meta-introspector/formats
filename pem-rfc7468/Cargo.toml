@@ -16,7 +16,7 @@ categories = ["cryptography", "data-structures", "encoding", "no-std", "parser-i
 keywords = ["crypto", "key", "pem", "pkcs", "rsa"]
 readme = "README.md"
 edition = "2024"
-rust-version = "1.85"
+# rust-version = "1.85"
 
 [dependencies]
 base64ct = { version = "1.4" }
